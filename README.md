@@ -61,7 +61,7 @@ I operate at the intersection of three powerful domains:
 
 ---
 
-## 🎓 Education & Background
+## 🎓 Education
 
 - **Master's in Computer Science** - Stevens Institute of Technology
 
