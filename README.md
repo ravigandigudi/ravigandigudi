@@ -40,9 +40,9 @@ I operate at the intersection of three powerful domains:
 
 | **PROJECT** | **CATEGORY** | **TECH STACK** | **DESCRIPTION** |
 |------------|--------------|----------------|-----------------|
+| [**ShabdaAI**](https://huggingface.co/spaces/ravish5/ShabdaAI) | NLP / Multilingual AI | Python, Hugging Face Transformers, Gradio, Regex, NLLB-200 | Multilingual Q&A assistant (Telugu & Hindi ↔ English) with context-based and retrieval-based answering, deployed on Hugging Face Spaces |
 | [**LLM Playground**](https://github.com/ravigandigudi/llm-playground) | AI/ML | Python, PyTorch, Transformers | Experimental platform for fine-tuning and deploying custom LLMs |
 | [**DataFlow Pipeline**](https://github.com/ravigandigudi/Credit-Card-Fraud-detection-) | Data Engineering | Airflow, Spark, Kafka, S3 | End-to-end data pipeline for real-time analytics |
-| [**MLOps Platform (Currently building locally – will be pushed to GitHub soon)**]() | DevOps/ML | Docker, Kubernetes, TensorFlow, FastAPI | Infrastructure for deploying and monitoring ML models in production |
 
 </div>
 
